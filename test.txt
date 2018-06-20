@@ -6,3 +6,5 @@ hello world
 哈哈哈
 
 分支测试
+
+atom测试
