@@ -1,3 +1,4 @@
 nihao
 hello world
 ！！！！
+测试编码
